@@ -1,0 +1,1 @@
+Kullanýcý: halime koç, Yaþý: 22, Boyu: 153.0, Kilosu: 50.0, Sýnýfý: Zayýf
